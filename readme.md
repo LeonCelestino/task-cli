@@ -14,9 +14,9 @@ This is a simple command-line interface (CLI) application for managing tasks.
 1. Clone the repository: https://github.com/LeonCelestino/task-cli.git
 2. Run npm install in your git bash
 3. Give command permission with the following command in your git bash:
--- `chmod +x cli.js`
+- `chmod +x cli.js`
 4. Link to index.js with:
--- `npm link`
+- `npm link`
 
 ## How to use
 
